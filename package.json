@@ -1,6 +1,6 @@
 {
   "name": "strip-module-export-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Webpack loader to strip module.export from the results of the previous loader.",
   "main": "lib/index.js",
   "scripts": {
